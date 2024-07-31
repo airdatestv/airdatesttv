@@ -1,4 +1,4 @@
-# airdatesttv
+# airdatestv
 to add data from tvmaze, tmdb, tvdb, wikipedia and fallback as per recheck to keep it to update
 High-Level Approach
 API Integration: You'll use APIs to fetch data from TVMaze, TMDb, TVDb, and Wikipedia. Each API has its own request format and response structure.
